@@ -1,0 +1,6 @@
+COMP-490A Primer Project
+
+How to use:
+- To display a simple custom HTML file use the query ?HTML
+- To download and display a website through the cgi script pass a query through the URL in the form of ?www.<WEBSITE>.com
+- A URI response is available using /password at the end of the URL
